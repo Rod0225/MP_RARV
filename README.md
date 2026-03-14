@@ -42,8 +42,8 @@ El programa genera un nuevo archivo CSV con la predicción de la especie.
 Ejemplo:
 
 ```csv
-bill_length_mm,bill_depth_mm,flipper_length_mm,body_mass_g,prediccion
-39.1,18.7,181,3750,Adelie
-39.5,17.4,186,3800,Adelie
-40.3,18.0,195,3250,Chinstrap
+Humano,Maquina
+Adelie,Adelie
+Chinstrap,Chinstrap
+Gentoo,Gentoo
 ```
